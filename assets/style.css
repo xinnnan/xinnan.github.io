@@ -52,6 +52,12 @@
 .skills-section {
   padding: 50px;
   text-align: center;
-  background-color: #474e5d;
+  background-color: #90b1f8;
+  color: white;
+}
+.projects-section {
+  padding: 50px;
+  text-align: center;
+  background-color: #757f96;
   color: white;
 }

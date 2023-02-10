@@ -39,11 +39,6 @@ const Sidebar = () => (
                     <FontAwesomeIcon icon={faInstagram} color="#4d4d4e"/>
                 </a>
             </li>
-            <li>
-                <a target="_blank" rel='noreferrer' href="https://www.youtube.com/@user-fm7ew7sc9t">
-                    <FontAwesomeIcon icon={faYoutube} color="#4d4d4e"/>
-                </a>
-            </li>
         </ul>
     
     </div>
